@@ -54,7 +54,7 @@
     "fs-extra": "^9.0.1",
     "husky": "^4.3.0",
     "lerna": "^3.22.1",
-    "react": "^16.13.1",
+    "react": "^17.0.1",
     "react-is": "^16.13.1",
     "storybook-addon-designs": "^5.4.1",
     "stylus": "^0.54.8",
